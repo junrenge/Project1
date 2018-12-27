@@ -11,6 +11,6 @@
     <title>idea的web index</title>
   </head>
   <body>
-   hello， dynamic web.
+   hello,dynamic web.
   </body>
 </html>
